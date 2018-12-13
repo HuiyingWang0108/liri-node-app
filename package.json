@@ -18,9 +18,13 @@
   },
   "homepage": "https://github.com/HuiyingWang0108/liri-node-app#readme",
   "dependencies": {
-    "node-spotify-api": "^1.0.7"
+    "axios": "^0.18.0",
+    "jsdom": "^13.0.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0"
   },
   "devDependencies": {
-    "dotenv": "^6.2.0"
+    "dotenv": "^6.2.0",
+    "jquery": "^3.3.1"
   }
 }
