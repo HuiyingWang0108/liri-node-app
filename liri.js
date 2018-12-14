@@ -87,7 +87,7 @@ if (commandsArray.indexOf(process.argv[2]) > -1) {
                 return console.log(error);
             }
             var cmdArray=data.split(',');
-            console.log(cmdArray);
+            // console.log(cmdArray);
             var cmd=cmdArray[0].trim();
             var para=cmdArray[1].trim();
             switch(cmd){

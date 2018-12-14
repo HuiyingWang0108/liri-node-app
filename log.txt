@@ -18,3 +18,13 @@ User Command: node liri spotify-this-song The Sign
 
 User Command: node liri concert-this David
 
+User Command: node liri spotify-this-song ghost
+
+User Command: node liri spotify-this-song ghost
+
+User Command: node liri movie-this spider-man
+
+User Command: node liri do-what-it-says 
+
+User Command: node liri do-what-it-says 
+
